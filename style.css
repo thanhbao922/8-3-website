@@ -258,8 +258,9 @@ a:focus {
 
 .content__title {
 	font-family: myFont;
-	font-weight: 400;
-	font-size: 10vw;
+	text-align: centercenter;
+	font-weight: 200;
+	font-size: 6vw;
 	margin: 10px 0;
 	line-height: 1;
 	position: relative;
