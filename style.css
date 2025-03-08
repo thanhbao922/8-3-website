@@ -271,7 +271,7 @@ a:focus {
 	font-size: 3vw;
 	display: block;
 	margin-left: 3vw;
-	line-height: 1;
+	line-height: 1.5;
 }
 
 .cursor {
